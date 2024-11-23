@@ -1,4 +1,4 @@
-# Code Breaker Game
+# Simple Code Breaker Game
 
 A simple Python game where the player attempts to guess a randomly generated 3-digit code. Feedback is provided after each guess to help the player "crack the code."
 
@@ -16,8 +16,8 @@ A simple Python game where the player attempts to guess a randomly generated 3-d
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/code-breaker-game.git
-   cd code-breaker-game
+   git clonehttps://github.com/SaaaRoO/Simple_Game_Project
+   cd Simple_Game_Project
 2. Run the game using Python:
 
 
